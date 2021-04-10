@@ -1,7 +1,7 @@
 <h1 align = "center">Título do projeto  :raised_hands:<h1>
     <h1 align = "center"><img src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png">
 <h1>
-
+    
 <br>
  
 ## :page_with_curl: Sobre o [nome_do_projeto]
@@ -13,7 +13,6 @@ A aplicação consiste em `uma pesquisa de preferência de games`, onde os dados
   - HTML
   - CSS
   - JavaScrip
-  -  
  <br>
   
 
@@ -28,17 +27,17 @@ A aplicação consiste em `uma pesquisa de preferência de games`, onde os dados
 <br>
 
 ## :computer: Layout Desktop
-  ### Funcionalidade 1
- ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png) 
- ### Funcionalidade 2
- ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)
- 
-  <img width="230" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)">
- 
+<h3 align="center">Funcionalidade 1<h3>
+<p align="center"><img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/><p> 
+
+<h3 align="center">Funcionalidade 2<h3>
+<p align="center"><img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/><p> 
 <br>
+    
+ <h3 align="center">Funcionalidade 3<h3>
+<p align="center"><img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/><p> 
  
 ## :iphone: Layout Mobile
-
 | Funcionalidade 1 | Funcionalidade2 |
 ----------------------- | ----------------------------- | 
 <img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> | <img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> 
@@ -72,9 +71,10 @@ yarn start
 <br>
 
 ## 📝 License
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/derikfigueiredo/git-teste/blob/master/LICENSE)
+
 <br>
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) for more information.
 
 <hr>
 
