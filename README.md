@@ -1,38 +1,20 @@
 <h1 align = "center">Título do projeto  :raised_hands:<h1>
-    <h1 align = "center"><img src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"><h1>
- 
-
- <hr>
- 
- ## Tópicos 
-
-[Sobre o projeto](##sobre-o-[nome-do-projeto)
-
-[Funcionalidades](##funcionalidades)
-
-[Layout Desktop](##layout-desktop)
-
-[Layout mobile](##layout-mobile)
-
-[Tecnologias e Ferramentas](##tecnologias-e-ferramentas)
-
-[Como executar o projeto](##como-executar-o-projeto)
-
-[Licença](##licença)
+    <h1 align = "center"><img src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png">
+<h1>
 
 <br>
  
-## 📜 Sobre o [nome_do_projeto]
+## :page_with_curl: Sobre o [nome_do_projeto]
  (TEXTO ILUSTRATIVO)Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em `uma pesquisa de preferência de games`, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
  
-## 🔧 Tecnologias e Ferramentas
-  * HTML
-  * CSS
-  * JavaScript
- 
- <hr>
+## :wrench: Tecnologias e Ferramentas
+  - HTML
+  - CSS
+  - JavaScrip
+  -  
+ <br>
   
 
 ## :bookmark_tabs: Funcionalidades
@@ -43,25 +25,33 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - [X] Api.
 - [X] Sistema de login e recuperação de senha.
 
+<br>
 
-## 💻 Layout Desktop
+## :computer: Layout Desktop
   ### Funcionalidade 1
+ ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png) 
+ ### Funcionalidade 2
  ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)
  
-   ### Funcionalidade 2
- ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)
+  <img width="230" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)">
  
-   ### Funcionalidade 3
- ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)
+<br>
  
- 
-## 📱 Layout Mobile
-  ### Funcionalidade 1
-  ![](https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png)
- <hr>
+## :iphone: Layout Mobile
+
+| Funcionalidade 1 | Funcionalidade2 |
+----------------------- | ----------------------------- | 
+<img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> | <img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> 
+
+| Funcionalidade 3 | Funcionalidade 4 |
+------------ | ------------- | 
+<img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> | <img width="400" src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png"/> 
+
+
+<br>
  
 
-## 🔧 Como executar o projeto
+## :information_source: Como executar o projeto
 #### Front end web
 Pré-requisitos: npm / yarn
 
@@ -79,22 +69,13 @@ yarn install
 yarn start
 ```
 
+<br>
 
-## License
+## 📝 License
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/derikfigueiredo/git-teste/blob/master/LICENSE)
 <br>
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 <hr>
 
-Feito com :purple_heart: by [Dérik Figueiredo](https://github.com/derikfigueiredo)
-
-
- <hr>
- 
-## 👉 OUTROS
-
-* Complete list of github markdown emoji markup: [clique aqui](https://gist.github.com/rxaviers/7360908) para acessar.
-
-
-<h4 align="center"> 🚧  Em construção...  🚧 </h4>
+<p align="center"> :rainbow_flag: Made by <a href="https://github.com/derikfigueiredo">Dérik Figueiredo<a> :rainbow_flag:<p>
