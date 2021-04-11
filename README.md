@@ -4,8 +4,10 @@
 
 <p align="center">
 <a><img src="https://img.shields.io/github/license/derikfigueiredo/git-teste.svg"><a>
-<a><img src="https://badge-size.herokuapp.com/derikfigueiredo/git-teste/master/index.html"><a>
-<a><img src="https://img.shields.io/badge/Website-lightgrey"/><a>
+<a><img src="https://badge-size.herokuapp.com/derikfigueiredo/git-teste/master/index.html"><a> 
+<a><img src="https://img.shields.io/badge/-D%C3%A9rik_Figueiredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https"><a>
+<a><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Color=white&link=https"/><a>
+
 </p>
     
 <br>
@@ -83,5 +85,10 @@ yarn start
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) for more information.
 
 <hr>
-
-<p align="center"> :rainbow_flag: Made by <a href="https://github.com/derikfigueiredo">Dérik Figueiredo<a> :rainbow_flag:<p>
+<h3 align="center">Author<h3>
+<p align="center"> 
+<a href="https://github.com/derikfigueiredo"><img  border-radius="50px" src="https://avatars.githubusercontent.com/u/78507980?v=4" width="100px" alt="Author"/><a>
+<p>    
+<p align="center">    
+:rainbow_flag: Made by <a href="https://github.com/derikfigueiredo">Dérik Figueiredo<a> :rainbow_flag:
+ <p>
