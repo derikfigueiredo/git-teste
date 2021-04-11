@@ -1,6 +1,12 @@
 <h1 align = "center">Título do projeto  :raised_hands:<h1>
     <h1 align = "center"><img src="https://github.com/derikfigueiredo/git-teste/blob/master/imagens/unnamed.png">
 <h1>
+
+<p align="center">
+<a><img src="https://img.shields.io/github/license/derikfigueiredo/git-teste.svg"><a>
+<a><img src="https://badge-size.herokuapp.com/derikfigueiredo/git-teste/master/index.html"><a>
+<a><img src="https://img.shields.io/badge/Website-lightgrey"/><a>
+</p>
     
 <br>
  
